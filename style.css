@@ -1,0 +1,54 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+    background: #fafafa;
+    color: #222;
+}
+
+/* Header */
+header {
+    background: #24292e;
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
+
+nav a {
+    color: #ffffffdd;
+    margin: 0 10px;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+nav a:hover {
+    color: #ffffff;
+}
+
+/* Sections */
+.section {
+    padding: 40px 20px;
+    max-width: 800px;
+    margin: auto;
+}
+
+button {
+    padding: 10px 15px;
+    border: none;
+    background: #0366d6;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background: #024c9a;
+}
+
+/* Footer */
+footer {
+    text-align: center;
+    padding: 15px;
+    background: #24292e;
+    color: white;
+    margin-top: 20px;
+}
