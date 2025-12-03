@@ -1,4 +1,3 @@
-document.getElementById("btnClick").addEventListener("click", function() {
-    const msg = document.getElementById("message");
-    msg.textContent = "Hello! Your website is working perfectly 🎉";
+document.getElementById("clickBtn").addEventListener("click", function() {
+    alert("Hello! Your website with an image is working.");
 });
